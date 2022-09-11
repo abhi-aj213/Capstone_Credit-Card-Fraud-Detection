@@ -1,0 +1,2 @@
+# Capstone_Credit-Card-Fraud-Detection
+Objective: Create system to identify/detect Credit Card Fraud, Ingest data using Apache Sqoop , process the streaming data and make Real-time decisions Solution: Load data in No Sql , Ingest data using AWS RDS ,Create look up tables , Created streaming framework for real time data  Key Achievement: Loaded Data and Created Look up tables , Created a streaming data processing framework that ingests real-time POS transaction data from Kafka, Validation system from Fraud detection
